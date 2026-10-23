@@ -29,7 +29,6 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
   ```
 
   jp
-  uv -V
   ```
 
 * **Inicializar a estrutura do projeto:**
