@@ -27,6 +27,8 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 * **Verificar versão do UV instalada:**
   ```
+
+  jp
   uv -V
   ```
 
